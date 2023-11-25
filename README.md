@@ -31,5 +31,3 @@ Uygulamayı başlattığınızda, sistemdeki tüm ses oturumlarını bir liste h
 - Sessize almak için mute butonuna basın.
 - Yeni açılan uygulamalar otomatik olarak listeye eklenecektir.
 
-## Ekran Görüntüleri
-(Ekran görüntülerinizi buraya ekleyin)
